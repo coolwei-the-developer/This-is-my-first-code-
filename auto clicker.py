@@ -10,7 +10,7 @@ from pynput.keyboard import Listener, KeyCode
 # four variables are created to
 # control the auto-clicker
 delay = 0.001
-button = Button.right
+button = Button.left
 start_stop_key = KeyCode(char='r')
 stop_key = KeyCode(char='r')
 
